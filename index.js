@@ -39,10 +39,10 @@ const quiz = [
     question:
       "In Mexico, a colorful and festive holiday is celebrated around the same time as Halloween. What is this holiday called?",
     optionA: "Cinco de Mayo",
-    optionB: "Dia de los Muertos (Day of the Dead)",
+    optionB: "Dia de los Muertos",
     optionC: "Fiesta de Halloween",
     optionD: "Carnival de los Fantasmas",
-    correctOption: "Dia de los Muertos (Day of the Dead)",
+    correctOption: "Dia de los Muertos",
   },
 ];
 let index = 0;
