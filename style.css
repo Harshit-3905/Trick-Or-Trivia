@@ -1,5 +1,4 @@
 body {
-    height: 100vh;
     width: 100vw;
     padding: 0;
     margin: 0;
@@ -12,8 +11,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100vw;
-    height: 10vh;
+    width: 100%;
     color: white;
     text-align: center;
     font-size: 30px;
@@ -28,8 +26,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 80vh;
-    width: 100vw;
+    width: 100%;
 }
 
 .quizsection {
@@ -38,7 +35,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 60vw;
+    width: 60%;
     padding: 20px;
     color: white;
     text-align: center;
@@ -62,8 +59,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100vw;
-    height: 10vh;
+    width: 100%;
+    height: 10%;
     color: white;
     font-size: 20px;
 }
